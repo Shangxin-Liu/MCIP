@@ -1,4 +1,4 @@
-# MCIP
+MCIP
 ====
 
 Meteorology Chemistry Interface Processor (http://www.cmaq-model.org)
@@ -13,7 +13,7 @@ This command shows how to check out MCIP v4.3 codes and scripts.
 
 The release versions of CMAQ that are currently available on Git Hub include:
 
-    v4.3 (November 2015)
-    v4.2 (Dec 2013)
-    v4.1 (July 2012)
+  v4.3 (November 2015)
+  v4.2 (Dec 2013)
+  v4.1 (July 2012)
 
