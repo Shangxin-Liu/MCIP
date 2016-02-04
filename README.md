@@ -1,19 +1,15 @@
 MCIP
 ====
 
-Meteorology Chemistry Interface Processor (http://www.cmaq-model.org)
+Meteorology Chemistry Interface Processor version 4.2 (August 2013)
 
-MCIP is an open-source development project of the U.S. EPA Atmospheric Science Modeling Division for converting Weather Research Forecast (WRF) model meteorlogy data for input to the CMAQ air quality model and SMOKE emissions processor. MCIP is supported and distributed by the CMAS Center (http://www.cmascenter.org).
+Changes to MCIPv4.2 were made by Tanya Otte (U.S. EPA). User contributions are also noted below.  The detailed list of changes to the MCIP code is in the CHANGES file, which is part of the MCIP tar file in the "doc" sub-directory.
 
-The MCIP Git archive is organized with each official public release stored as a branch on the main CMASCenter/MCIP repository. To check out code from the MCIP Git archive, specify the branch (i.e. version number) and issue the following command from within a working directory on your server:
+Interactions with the following users (in alphabetical order) have resulted
+in some of the code changes/corrections that were made for MCIPv4.2:
 
-git clone -b 4.3 https://github.com/CMASCenter/MCIP.git
+* Chris Misenis, U.S. EPA, Research Triangle Park, NC
+* Jon Pleim, U.S. EPA, Research Triangle Park, NC
+* Brian Timin, U.S. EPA, Research Triangle Park, NC
 
-This command shows how to check out MCIP v4.3 codes and scripts.
-
-The release versions of CMAQ that are currently available on Git Hub include:
-
-* v4.3 (November 2015)
-* v4.2 (Dec 2013)
-* v4.1 (July 2012)
-
+[Release Notes](https://www.cmascenter.org/help/model_docs/mcip/4.2/ReleaseNotes)
